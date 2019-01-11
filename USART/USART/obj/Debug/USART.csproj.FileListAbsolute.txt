@@ -1,0 +1,10 @@
+C:\Users\pabli\OneDrive\Pulpit\Ploter CNC\Program\USART Turtorial\USART\USART\bin\Debug\USART.exe.config
+C:\Users\pabli\OneDrive\Pulpit\Ploter CNC\Program\USART Turtorial\USART\USART\bin\Debug\USART.exe
+C:\Users\pabli\OneDrive\Pulpit\Ploter CNC\Program\USART Turtorial\USART\USART\bin\Debug\USART.pdb
+C:\Users\pabli\OneDrive\Pulpit\Ploter CNC\Program\USART Turtorial\USART\USART\obj\Debug\USART.csprojAssemblyReference.cache
+C:\Users\pabli\OneDrive\Pulpit\Ploter CNC\Program\USART Turtorial\USART\USART\obj\Debug\USART.Form1.resources
+C:\Users\pabli\OneDrive\Pulpit\Ploter CNC\Program\USART Turtorial\USART\USART\obj\Debug\USART.Properties.Resources.resources
+C:\Users\pabli\OneDrive\Pulpit\Ploter CNC\Program\USART Turtorial\USART\USART\obj\Debug\USART.csproj.GenerateResource.cache
+C:\Users\pabli\OneDrive\Pulpit\Ploter CNC\Program\USART Turtorial\USART\USART\obj\Debug\USART.csproj.CoreCompileInputs.cache
+C:\Users\pabli\OneDrive\Pulpit\Ploter CNC\Program\USART Turtorial\USART\USART\obj\Debug\USART.exe
+C:\Users\pabli\OneDrive\Pulpit\Ploter CNC\Program\USART Turtorial\USART\USART\obj\Debug\USART.pdb
